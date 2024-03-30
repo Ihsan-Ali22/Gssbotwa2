@@ -1,5 +1,5 @@
 {
-  "name": "gss botwa",
+  "name": "TURBO-MD",
   "version": "1.0.0",
   "description": "WhatsApp Using Lib Baileys Multi Device",
   "main": "index.js",
@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "sid bhai.",
+  "author": "𝓘𝓱𝓼𝓪𝓷_𝓐𝓵𝓲.",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
